@@ -2,9 +2,7 @@
 
 This repository contains a simple login page implementation using HTML, CSS, and JavaScript. The login page allows users to enter their credentials and log in to access the protected content or perform specific actions.
 
-## Preview
 
-![Login Page Preview](login_page_preview.png)
 
 ## Features
 
